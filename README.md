@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# khawaja younuse ali medical collage ad hospital.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+###  healthcare and hospital 
+ 1.full responsive with bootstrap
+ 2.privet component.
+ 3.login and signUp .
 
 ### `npm start`
 
