@@ -1,0 +1,16 @@
+.footer{
+    background-color: #0977c0;
+    
+    grid-gap: 5px;
+    color:  white;
+}
+.footer img{
+   
+    width: 50px;
+    margin: 20px;
+}
+.footer a{
+    color: rgb(243, 237, 237);
+    text-decoration: none;
+    padding: 10px;
+}

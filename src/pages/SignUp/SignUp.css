@@ -1,0 +1,20 @@
+.signUp{
+    background-image: url('https://img.freepik.com/free-photo/medical-stethoscope-with-paper-cut-family_23-2148488217.jpg?size=626&ext=jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-x: center;
+    padding-top: 300px;}
+    .input {
+        border-radius: 10px;
+        padding: 30px;
+        margin: 20px;
+        background-color: rgb(240, 235, 228);
+       
+       
+    }
+    .input input{
+        border-radius: 10px;
+        border: none;
+       
+       
+    }
